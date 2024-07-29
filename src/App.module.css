@@ -7,15 +7,11 @@ body {
   margin: 0;
 }
 
-section {
+.app {
   width: 100%;
   display: flex;
   justify-content: center;
   margin: 20px 0;
 }
 
-section div {
-  width: 100%;
-  max-width: 1200px;
-  box-sizing: border-box;
-}
+
